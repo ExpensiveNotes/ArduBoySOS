@@ -6,3 +6,5 @@ Up,down, left & right move the cursor.
 A - Place an S
 B - Place an O
 A&B - restart game.
+
+The sos_graphics.ino version adds some sprites
